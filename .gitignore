@@ -169,3 +169,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# pip cache
+pip-cache/
+
+# test folder
+test/*
+
+# vscode
+.vscode/*
+
+# .idea
+.idea/
